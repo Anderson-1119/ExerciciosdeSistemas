@@ -1,0 +1,10 @@
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\bin\x64\Debug\atividademenu.exe.config
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\bin\x64\Debug\atividademenu.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\bin\x64\Debug\atividademenu.pdb
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.frmMenu.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.Properties.Resources.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.csproj.GenerateResource.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.csproj.CoreCompileInputs.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.pdb
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividademenu\obj\x64\Debug\atividademenu.csproj.AssemblyReference.cache
